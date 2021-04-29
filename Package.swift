@@ -8,13 +8,12 @@ let package = Package(
         .library(name: "LeapCreatorSDK", targets: ["LeapCreatorSDK"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/daltoniam/Starscream.git", .upToNextMajor(from: "5.0.0"))
+        .package(name:"Starscream", url: "https://github.com/daltoniam/Starscream.git", .upToNextMajor(from: "4.0.0"))
     ],
     targets: [
         .binaryTarget(
             name: "LeapCreatorSDK", 
-            path: "LeapCreatorSDK.xcframework",
-            dependencies:["Starscream"]
+            path: "LeapCreatorSDK.xcframework"
         )
     ]
 )

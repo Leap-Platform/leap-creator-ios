@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		IR2AoedIlw0fk+1ULgQyZ6TEeVg=
+		Nsn+eytqAoCR5VpHj1EgEJ8P354=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm.swiftdoc</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm.swiftmodule</key>
 		<data>
-		5Dz3eOsYtBhGtRi3bNfMQshUFp0=
+		KpYWzjhocazkefEMCF9AoQAboOk=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		JXaNG8wcBJSsAJUT5F/pnA4h3yQ=
+		GctZ4I+x6NtLzPxw5ylklW1pf0w=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		JXaNG8wcBJSsAJUT5F/pnA4h3yQ=
+		GctZ4I+x6NtLzPxw5ylklW1pf0w=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		5Dz3eOsYtBhGtRi3bNfMQshUFp0=
+		KpYWzjhocazkefEMCF9AoQAboOk=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/armv7.swiftdoc</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/armv7.swiftmodule</key>
 		<data>
-		5Dz3eOsYtBhGtRi3bNfMQshUFp0=
+		KpYWzjhocazkefEMCF9AoQAboOk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -131,11 +131,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5Dz3eOsYtBhGtRi3bNfMQshUFp0=
+			KpYWzjhocazkefEMCF9AoQAboOk=
 			</data>
 			<key>hash2</key>
 			<data>
-			9vJ9LtB8+dJkomVmWoC0F+LqdFGmr45j5xAsf5QCdaY=
+			Js835btoHn1EFugc9RysZ8eF6ZXUf0DyhRptQJdHjZw=
 			</data>
 		</dict>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -164,11 +164,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JXaNG8wcBJSsAJUT5F/pnA4h3yQ=
+			GctZ4I+x6NtLzPxw5ylklW1pf0w=
 			</data>
 			<key>hash2</key>
 			<data>
-			+5Ocz50Zej9K4Wv0csTYiNDq6HplIc6dbFvulxCP2fA=
+			gNojQXryCeR5I04CbyRu3uA8KJfQM56oE6Wb/II9W8s=
 			</data>
 		</dict>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm64.swiftdoc</key>
@@ -197,11 +197,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JXaNG8wcBJSsAJUT5F/pnA4h3yQ=
+			GctZ4I+x6NtLzPxw5ylklW1pf0w=
 			</data>
 			<key>hash2</key>
 			<data>
-			+5Ocz50Zej9K4Wv0csTYiNDq6HplIc6dbFvulxCP2fA=
+			gNojQXryCeR5I04CbyRu3uA8KJfQM56oE6Wb/II9W8s=
 			</data>
 		</dict>
 		<key>Modules/LeapCreatorSDK.swiftmodule/armv7-apple-ios.swiftdoc</key>
@@ -230,11 +230,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5Dz3eOsYtBhGtRi3bNfMQshUFp0=
+			KpYWzjhocazkefEMCF9AoQAboOk=
 			</data>
 			<key>hash2</key>
 			<data>
-			9vJ9LtB8+dJkomVmWoC0F+LqdFGmr45j5xAsf5QCdaY=
+			Js835btoHn1EFugc9RysZ8eF6ZXUf0DyhRptQJdHjZw=
 			</data>
 		</dict>
 		<key>Modules/LeapCreatorSDK.swiftmodule/armv7.swiftdoc</key>
@@ -263,11 +263,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5Dz3eOsYtBhGtRi3bNfMQshUFp0=
+			KpYWzjhocazkefEMCF9AoQAboOk=
 			</data>
 			<key>hash2</key>
 			<data>
-			9vJ9LtB8+dJkomVmWoC0F+LqdFGmr45j5xAsf5QCdaY=
+			Js835btoHn1EFugc9RysZ8eF6ZXUf0DyhRptQJdHjZw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

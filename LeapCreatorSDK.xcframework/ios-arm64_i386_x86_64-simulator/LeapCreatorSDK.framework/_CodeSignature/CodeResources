@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		/1ZlDmkh2ma+WBL0E2IYY0YNj4o=
+		MyDex+uqeHpWUm2IohKhRkX3CjY=
 		</data>
 		<key>Headers/LeapCreatorSDK-Swift.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		/EjlwKVkluRS6xAVQuUHAnVzGX8=
+		iI8VCJkJ4sRQ9rQVpXeJpyNSGIk=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
@@ -123,11 +123,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/1ZlDmkh2ma+WBL0E2IYY0YNj4o=
+			MyDex+uqeHpWUm2IohKhRkX3CjY=
 			</data>
 			<key>hash2</key>
 			<data>
-			lPAmL51By71iTduCTlkuHeJfbfdm54mMs3NNz4JQD2Y=
+			YHmZHUtK1XsKxbkp2eyU8bzja9zPzsZ9NyF77OSdyUw=
 			</data>
 		</dict>
 		<key>Headers/LeapCreatorSDK-Swift.h</key>

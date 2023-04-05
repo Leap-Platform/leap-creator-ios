@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KtJKaB8uy2Ph7a2TmkDxG6kFbmQ=
+		SgdM3b+QtJnkVUlIzH12b+DQpMU=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		G8DmYYONgJlejRIFU2ljSdLDemY=
+		yygMo17654nA+BbMcO4yCy+em2I=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ndBxeWI5bntKNj4FwGUXSPD2+Z0=
+		wChcNACV9uq8/0ixeCBmT4+nibg=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ioZLi7O9pqgSIm/knnGlocrokiI=
+		dvOpkKlgFHmjMkx4QrUW006FEi0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -107,11 +107,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			G8DmYYONgJlejRIFU2ljSdLDemY=
+			yygMo17654nA+BbMcO4yCy+em2I=
 			</data>
 			<key>hash2</key>
 			<data>
-			x7976uCevx/qkR2Gmbk9bTXFSMesdJGG8zpK+32PNsI=
+			QpMIe0kjnRN1gpw6B3iZS1nlM3mmhZxq5EIy7E1jLao=
 			</data>
 		</dict>
 		<key>Modules/LeapCreatorSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -140,11 +140,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ndBxeWI5bntKNj4FwGUXSPD2+Z0=
+			wChcNACV9uq8/0ixeCBmT4+nibg=
 			</data>
 			<key>hash2</key>
 			<data>
-			YhN86mydQgfPOK0Q4bX28qNewc5T3Fawq2G6Uz62N78=
+			FO3cOCu3fXF2dHip9uIn1+yVQdmfbG/ryP2AIBdGMio=
 			</data>
 		</dict>
 		<key>Modules/LeapCreatorSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -173,11 +173,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ioZLi7O9pqgSIm/knnGlocrokiI=
+			dvOpkKlgFHmjMkx4QrUW006FEi0=
 			</data>
 			<key>hash2</key>
 			<data>
-			/YbHDx/RTmdxnXgbNR+ThZGZCQ7312D0Q/vf8fXj2F0=
+			xHkYOMTLyueIa4ssJN2xI0kh8oEtvP8DBX/ZbqQnrtg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

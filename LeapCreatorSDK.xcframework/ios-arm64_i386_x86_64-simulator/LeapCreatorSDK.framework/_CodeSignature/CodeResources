@@ -10,11 +10,11 @@
 		</data>
 		<key>Headers/LeapCreatorSDK-Swift.h</key>
 		<data>
-		RqB3s5O+rxKn6nxOjIVt52ov4vc=
+		7FC39WDJctWAaQCBa0yJMVU79cw=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		SgdM3b+QtJnkVUlIzH12b+DQpMU=
+		ofLrb8nEGFKasBX1Wfqaw0gw2rM=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		lpSAxZ8PEIQEv5+5ZSfL313/mr8=
+		atyeNgxb44vMVsTp2T02c7e9Aiw=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		yygMo17654nA+BbMcO4yCy+em2I=
+		9XaLK1aOyUVznnOFaWutUOZcGNo=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<data>
-		gpLhkTFu2EfZAOoFPrHKDYvnYb4=
+		F2IPQV9+yyInpLGahSJ8c5T1S5Q=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		wChcNACV9uq8/0ixeCBmT4+nibg=
+		0rRaczpcA70Or8al5CyRUdrg5AU=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		IgbPzdONsdjQYg/rpTpmR5CDKCA=
+		eHbMQNJtjaVRanJv5u8DWmrmcys=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		dvOpkKlgFHmjMkx4QrUW006FEi0=
+		IHZhm+InC6pM8fzGDAPMKDdLHFU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -74,11 +74,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RqB3s5O+rxKn6nxOjIVt52ov4vc=
+			7FC39WDJctWAaQCBa0yJMVU79cw=
 			</data>
 			<key>hash2</key>
 			<data>
-			MiSOSxv2Ikz3ABW+dBcIyPQZTiODl6m+hnpajkaE1Qw=
+			BwkX/EmCX7ITCGyd6PxE7n0KFK01c3KxZi0Cy8yAsnY=
 			</data>
 		</dict>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -96,22 +96,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lpSAxZ8PEIQEv5+5ZSfL313/mr8=
+			atyeNgxb44vMVsTp2T02c7e9Aiw=
 			</data>
 			<key>hash2</key>
 			<data>
-			yqlnyV7Oc2jFQYz9zERTlfL58OpoeoWs3IU2DrsOeRk=
+			Mrvedu8mshikr2GeYlAh4a8AJliJfi0w6bMrUiK3Tfo=
 			</data>
 		</dict>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yygMo17654nA+BbMcO4yCy+em2I=
+			9XaLK1aOyUVznnOFaWutUOZcGNo=
 			</data>
 			<key>hash2</key>
 			<data>
-			QpMIe0kjnRN1gpw6B3iZS1nlM3mmhZxq5EIy7E1jLao=
+			OqE/vGhayoZ0bTm8v1TFQ9upihS9FrhMiPgBoMHhc48=
 			</data>
 		</dict>
 		<key>Modules/LeapCreatorSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -129,22 +129,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gpLhkTFu2EfZAOoFPrHKDYvnYb4=
+			F2IPQV9+yyInpLGahSJ8c5T1S5Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			7g4khBAPOPdifYARiYhegsSW2B/OowFGffw9uESlJ4o=
+			BhT6ws3u54trczes3m/0RSmKynzFptKe1/uFiDbr1RY=
 			</data>
 		</dict>
 		<key>Modules/LeapCreatorSDK.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wChcNACV9uq8/0ixeCBmT4+nibg=
+			0rRaczpcA70Or8al5CyRUdrg5AU=
 			</data>
 			<key>hash2</key>
 			<data>
-			FO3cOCu3fXF2dHip9uIn1+yVQdmfbG/ryP2AIBdGMio=
+			tamtKkmEtMBMP40xtBoj0T4F94bup1ALUBSzPZFpr8w=
 			</data>
 		</dict>
 		<key>Modules/LeapCreatorSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -162,22 +162,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IgbPzdONsdjQYg/rpTpmR5CDKCA=
+			eHbMQNJtjaVRanJv5u8DWmrmcys=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ms/iSzXJit+u/xseu2EfpQkszD9YcR0frDfqFCqDpKA=
+			cSkDs5PGnZeVGL4MpeWSTWfDVMuVWdFXTeR8z+EM90E=
 			</data>
 		</dict>
 		<key>Modules/LeapCreatorSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dvOpkKlgFHmjMkx4QrUW006FEi0=
+			IHZhm+InC6pM8fzGDAPMKDdLHFU=
 			</data>
 			<key>hash2</key>
 			<data>
-			xHkYOMTLyueIa4ssJN2xI0kh8oEtvP8DBX/ZbqQnrtg=
+			/6ZOB/zfzQXgKItAXLYm236BI4qr+/IV5VsD5qe59z0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

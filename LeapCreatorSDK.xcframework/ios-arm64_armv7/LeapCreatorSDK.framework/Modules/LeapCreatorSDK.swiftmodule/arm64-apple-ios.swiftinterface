@@ -11,6 +11,8 @@ import UIKit
 import UserNotifications
 import WebKit
 import _Concurrency
+import os.log
+import os
 import zlib
 public protocol SampleAppDelegate : AnyObject {
   func sendInfo(infoDict: Swift.Dictionary<Swift.String, Any>)

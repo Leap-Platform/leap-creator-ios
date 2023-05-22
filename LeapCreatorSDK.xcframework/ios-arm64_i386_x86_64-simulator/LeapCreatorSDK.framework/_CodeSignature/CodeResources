@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		uI6oin8Gqb+Uwf5VPbOKXVo0RF8=
+		D8OzXiaRSGDEvCaxE4D1wwqe2IU=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+sRGzdNgqu5OcSnaxAofabY+LI0=
+		3ZuWMSbpygcn14UOrKJMyhy60bs=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		mBP+kWG2u8Z63SiW6GlRO65sdiM=
+		QwM9G1zBOxBi1e7A+p0EvwGPWh8=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		k3UWPb0fhgGedDHvYRzY8hf4sH0=
+		+TIC/v59DbMWDWL6jKzAjzMa1/Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -107,11 +107,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+sRGzdNgqu5OcSnaxAofabY+LI0=
+			3ZuWMSbpygcn14UOrKJMyhy60bs=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZexmIJdefjtCvAN0NmQxDqi5D4+U6PQK9jE2ZtbiQuk=
+			t4TXsdb92MTmMidBiKkBNdIaenKuesuaVsr9bqS3ndU=
 			</data>
 		</dict>
 		<key>Modules/LeapCreatorSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -140,11 +140,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mBP+kWG2u8Z63SiW6GlRO65sdiM=
+			QwM9G1zBOxBi1e7A+p0EvwGPWh8=
 			</data>
 			<key>hash2</key>
 			<data>
-			OqHu1dq60iXAjRhwYz74rCnYGZ1EhNta/CkQxySQaC0=
+			y6lFAYeSlWilKUWsvGY5YJmqiuEewC3U/L9cNm7Ofm4=
 			</data>
 		</dict>
 		<key>Modules/LeapCreatorSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -173,11 +173,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			k3UWPb0fhgGedDHvYRzY8hf4sH0=
+			+TIC/v59DbMWDWL6jKzAjzMa1/Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			T/jueVJvZSJINciYEesKZQT+5Gg4PooM8sKQY70Tc/k=
+			YbpbwKfKTCD+/c6/80Jn3wzBMWHy4f4EeTL6ZDKLyYk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

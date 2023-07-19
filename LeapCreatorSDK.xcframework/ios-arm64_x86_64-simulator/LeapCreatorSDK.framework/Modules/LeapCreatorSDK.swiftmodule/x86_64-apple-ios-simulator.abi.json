@@ -10914,7 +10914,7 @@
       "kind": "StringLiteral",
       "offset": 211,
       "length": 7,
-      "value": "\"1.9.4\""
+      "value": "\"1.9.5\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/LeapCreator.swift",
@@ -10967,624 +10967,638 @@
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1494,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "StringLiteral",
-      "offset": 1701,
+      "offset": 1797,
       "length": 39,
       "value": "\"init(coder:) has not been implemented\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2879,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "FloatLiteral",
-      "offset": 2896,
+      "offset": 3415,
       "length": 5,
       "value": "0.122"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "FloatLiteral",
-      "offset": 2910,
+      "offset": 3429,
       "length": 5,
       "value": "0.122"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "FloatLiteral",
-      "offset": 2923,
+      "offset": 3442,
       "length": 5,
       "value": "0.196"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2937,
+      "offset": 3456,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3394,
+      "offset": 3913,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3562,
+      "offset": 4081,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4053,
+      "offset": 4602,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4100,
+      "offset": 4649,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4143,
+      "offset": 4692,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4196,
+      "offset": 4745,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4250,
+      "offset": 4799,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4354,
+      "offset": 4903,
       "length": 3,
       "value": "240"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "FloatLiteral",
-      "offset": 4361,
+      "offset": 4910,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4526,
+      "offset": 5075,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4718,
+      "offset": 5267,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4731,
+      "offset": 5280,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4905,
+      "offset": 5454,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4946,
+      "offset": 5495,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4951,
+      "offset": 5500,
       "length": 2,
       "value": "96"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5063,
+      "offset": 5612,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5177,
+      "offset": 5726,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5219,
+      "offset": 5768,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5232,
+      "offset": 5781,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5476,
+      "offset": 6025,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5595,
+      "offset": 6144,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5709,
+      "offset": 6258,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5751,
+      "offset": 6300,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5764,
+      "offset": 6313,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "StringLiteral",
-      "offset": 6031,
+      "offset": 6580,
       "length": 13,
       "value": "\"whatfixIcon\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6180,
+      "offset": 6729,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6453,
+      "offset": 7002,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6542,
+      "offset": 7091,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6627,
+      "offset": 7176,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6714,
+      "offset": 7263,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "FloatLiteral",
-      "offset": 6824,
+      "offset": 7373,
       "length": 5,
       "value": "0.753"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "FloatLiteral",
-      "offset": 6838,
+      "offset": 7387,
       "length": 5,
       "value": "0.745"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "FloatLiteral",
-      "offset": 6851,
+      "offset": 7400,
       "length": 3,
       "value": "0.8"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6863,
+      "offset": 7412,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6927,
+      "offset": 7476,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "FloatLiteral",
-      "offset": 7057,
+      "offset": 7606,
       "length": 3,
       "value": "3.5"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7073,
+      "offset": 7622,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "FloatLiteral",
-      "offset": 7161,
+      "offset": 7710,
       "length": 4,
       "value": "-3.5"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7178,
+      "offset": 7727,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7241,
+      "offset": 7790,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7255,
+      "offset": 7804,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7342,
+      "offset": 7891,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "StringLiteral",
-      "offset": 7487,
+      "offset": 8036,
       "length": 13,
       "value": "\"whatfixIcon\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7637,
+      "offset": 8186,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7915,
+      "offset": 8464,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7997,
+      "offset": 8546,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 8086,
+      "offset": 8635,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 8172,
+      "offset": 8721,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 8304,
+      "offset": 8853,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 8363,
+      "offset": 8912,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 8555,
+      "offset": 9104,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 8696,
+      "offset": 9245,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "StringLiteral",
-      "offset": 8843,
+      "offset": 9392,
       "length": 12,
       "value": "\"cameraIcon\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "StringLiteral",
-      "offset": 9030,
+      "offset": 9579,
       "length": 13,
       "value": "\"previewIcon\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "StringLiteral",
-      "offset": 9189,
+      "offset": 9738,
       "length": 11,
       "value": "\"closeIcon\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 9518,
+      "offset": 10067,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 9606,
+      "offset": 10155,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 9695,
+      "offset": 10244,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 9781,
+      "offset": 10330,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 10808,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 10847,
-      "length": 1,
-      "value": "8"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 11107,
+      "offset": 11357,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11146,
+      "offset": 11396,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 11363,
+      "offset": 11656,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11402,
+      "offset": 11695,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 12685,
+      "offset": 11912,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11951,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13238,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 12814,
+      "offset": 13367,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12908,
+      "offset": 13461,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12911,
+      "offset": 13464,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 12939,
+      "offset": 13492,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 12988,
+      "offset": 13541,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13127,
+      "offset": 13680,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13169,
+      "offset": 13722,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13335,
+      "offset": 13888,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "FloatLiteral",
-      "offset": 13642,
+      "offset": 14195,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13690,
+      "offset": 14243,
       "length": 2,
       "value": "42"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13861,
+      "offset": 14414,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13867,
+      "offset": 14420,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13910,
+      "offset": 14463,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "FloatLiteral",
-      "offset": 14293,
+      "offset": 14846,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "BooleanLiteral",
-      "offset": 14341,
+      "offset": 14894,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 14417,
+      "offset": 14970,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 14741,
+      "offset": 15294,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 15123,
+      "offset": 15676,
       "length": 2,
       "value": "20"
     },
@@ -14146,56 +14160,56 @@
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Views\/LeapCreatorNotificationView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4534,
+      "offset": 4538,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Views\/LeapCreatorNotificationView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4543,
+      "offset": 4547,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Views\/LeapCreatorNotificationView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4554,
+      "offset": 4558,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Views\/LeapCreatorNotificationView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4564,
+      "offset": 4568,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Views\/LeapCreatorNotificationView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4655,
+      "offset": 4659,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Views\/LeapCreatorNotificationView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4664,
+      "offset": 4668,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Views\/LeapCreatorNotificationView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4675,
+      "offset": 4679,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Views\/LeapCreatorNotificationView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4685,
+      "offset": 4689,
       "length": 1,
       "value": "0"
     },

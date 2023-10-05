@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		SZLx8mSsCh3GFwvOJUt0D4B3zyw=
+		vDfFliLH2RhFSrXT+O+vSR79CN0=
 		</data>
 		<key>Headers/LeapCreatorSDK-Swift.h</key>
 		<data>
@@ -14,47 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		7MKpVxNzOe3tlE5vLEH0RrFANpU=
+		tyNDY52kAoEe9HXfSrvlAc84baI=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		JuHl305sp3VWxi7fxCcYW15tKwc=
+		v2aBus8oQTgE1dcl/s+DXiEF2ns=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		g5+vSghr5SLwHtJlUUHAYfs17Dw=
+		I6WAVqDizFGagmGEDPuBqPaqG0w=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		mqaci7zdP/Ma/n7yXdbH/eJn1xQ=
+		qlN+PGShZT1mic+nJuqbPbQcncc=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		g5+vSghr5SLwHtJlUUHAYfs17Dw=
+		I6WAVqDizFGagmGEDPuBqPaqG0w=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Cj4eDZphSAewodnWu0M2nT+Eznw=
+		H+jmhf6OamztdiMs+PC/ojWgVGM=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		JuHl305sp3VWxi7fxCcYW15tKwc=
+		v2aBus8oQTgE1dcl/s+DXiEF2ns=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		qUpMTu3k96Hexs8N23sBANtkDiY=
+		TgdjK2Z7QwWKuW4cO+1/XI1mHIk=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		UdCt27H9XIuIThh7JNkpr0Fp7NE=
+		GGFR0ZPRYsgCYI/8HfO6Z6QhqB4=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		qUpMTu3k96Hexs8N23sBANtkDiY=
+		TgdjK2Z7QwWKuW4cO+1/XI1mHIk=
 		</data>
 		<key>Modules/LeapCreatorSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ZwmH6p2lY4ShkyTXeX3k8B8TLKo=
+		HTgxVG+yYNENrCyZiFmYrUIrkkw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,11 +67,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SZLx8mSsCh3GFwvOJUt0D4B3zyw=
+			vDfFliLH2RhFSrXT+O+vSR79CN0=
 			</data>
 			<key>hash2</key>
 			<data>
-			OlWZZi/CugAWMPVWOsRrYzk/o3FUy+NfCWXezSoGqzI=
+			PAVooefY8VDgJUvBXimqMkGyuxlyWAzaCbt/QruC/Ho=
 			</data>
 		</dict>
 		<key>Headers/LeapCreatorSDK-Swift.h</key>
@@ -89,110 +89,110 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JuHl305sp3VWxi7fxCcYW15tKwc=
+			v2aBus8oQTgE1dcl/s+DXiEF2ns=
 			</data>
 			<key>hash2</key>
 			<data>
-			15quhzwPv8I4dJpq15KMjsw8VZjxGvt4U6b1MDvy4rI=
+			n/bVuu7Dzzlr0/XoFurfgkiQKSaYibB7neYS7e9PcEI=
 			</data>
 		</dict>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			g5+vSghr5SLwHtJlUUHAYfs17Dw=
+			I6WAVqDizFGagmGEDPuBqPaqG0w=
 			</data>
 			<key>hash2</key>
 			<data>
-			r5xBrB9iBYiaGQ+fOBO386TOGmBVHtZOmS9nGS098nQ=
+			3Vgo+LRs3OFMIWRxq1p9VCNqfwCiy40IyqAPkE8EbiU=
 			</data>
 		</dict>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mqaci7zdP/Ma/n7yXdbH/eJn1xQ=
+			qlN+PGShZT1mic+nJuqbPbQcncc=
 			</data>
 			<key>hash2</key>
 			<data>
-			Fyq6lzG6pWK9IPmf0vHSGip3/ldZRM3dK0+VGZjIlmU=
+			Xp6VnbOBwE7xsNelPw1VFzpyJDGHzwLlMuSsoM2VWXs=
 			</data>
 		</dict>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			g5+vSghr5SLwHtJlUUHAYfs17Dw=
+			I6WAVqDizFGagmGEDPuBqPaqG0w=
 			</data>
 			<key>hash2</key>
 			<data>
-			r5xBrB9iBYiaGQ+fOBO386TOGmBVHtZOmS9nGS098nQ=
+			3Vgo+LRs3OFMIWRxq1p9VCNqfwCiy40IyqAPkE8EbiU=
 			</data>
 		</dict>
 		<key>Modules/LeapCreatorSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Cj4eDZphSAewodnWu0M2nT+Eznw=
+			H+jmhf6OamztdiMs+PC/ojWgVGM=
 			</data>
 			<key>hash2</key>
 			<data>
-			DFOZqHihNRPSu0GRjkwerR6kZBZhi1Sy83lYb07AvVY=
+			hDZmAVTZytefH1U0+hxNX8JYhcH1TuFHMBA64shhB/g=
 			</data>
 		</dict>
 		<key>Modules/LeapCreatorSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JuHl305sp3VWxi7fxCcYW15tKwc=
+			v2aBus8oQTgE1dcl/s+DXiEF2ns=
 			</data>
 			<key>hash2</key>
 			<data>
-			15quhzwPv8I4dJpq15KMjsw8VZjxGvt4U6b1MDvy4rI=
+			n/bVuu7Dzzlr0/XoFurfgkiQKSaYibB7neYS7e9PcEI=
 			</data>
 		</dict>
 		<key>Modules/LeapCreatorSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qUpMTu3k96Hexs8N23sBANtkDiY=
+			TgdjK2Z7QwWKuW4cO+1/XI1mHIk=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZdLo0VO5AKgnZDVYJpQo7aRViaXSNgiUqTbzFeB3yIM=
+			Zfu7PaUZ9muGwr1DclKZ7QAuEk17JU+YeD9xV2wLWj0=
 			</data>
 		</dict>
 		<key>Modules/LeapCreatorSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UdCt27H9XIuIThh7JNkpr0Fp7NE=
+			GGFR0ZPRYsgCYI/8HfO6Z6QhqB4=
 			</data>
 			<key>hash2</key>
 			<data>
-			tLynqyJIfT5dgaj1DaE7GjgItzrx3+Kbm4SzRgRV6bQ=
+			As5pHrDq9kN9bSqf4OV7dCpSy2kNf9Q5mib4AVdDqJw=
 			</data>
 		</dict>
 		<key>Modules/LeapCreatorSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qUpMTu3k96Hexs8N23sBANtkDiY=
+			TgdjK2Z7QwWKuW4cO+1/XI1mHIk=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZdLo0VO5AKgnZDVYJpQo7aRViaXSNgiUqTbzFeB3yIM=
+			Zfu7PaUZ9muGwr1DclKZ7QAuEk17JU+YeD9xV2wLWj0=
 			</data>
 		</dict>
 		<key>Modules/LeapCreatorSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZwmH6p2lY4ShkyTXeX3k8B8TLKo=
+			HTgxVG+yYNENrCyZiFmYrUIrkkw=
 			</data>
 			<key>hash2</key>
 			<data>
-			5ErE+sLAmJnHWdDnZSxsjkk5Vl7ae3uGqHT/TjOl4Pk=
+			5ZFrO9Q/xAJx6isavp8N+SsSbywQ3GQe5eQngw95SmI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

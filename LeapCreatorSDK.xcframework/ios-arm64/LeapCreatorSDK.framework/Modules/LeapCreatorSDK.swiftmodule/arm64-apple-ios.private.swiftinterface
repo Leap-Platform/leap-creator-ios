@@ -12,6 +12,40 @@ import _Concurrency
 import _StringProcessing
 import os.log
 import os
+import zlib
+public struct CompressionLevel : Swift.RawRepresentable {
+  public let rawValue: Swift.Int32
+  public static let noCompression: LeapCreatorSDK.CompressionLevel
+  public static let bestSpeed: LeapCreatorSDK.CompressionLevel
+  public static let bestCompression: LeapCreatorSDK.CompressionLevel
+  public static let defaultCompression: LeapCreatorSDK.CompressionLevel
+  public init(rawValue: Swift.Int32)
+  public init(_ rawValue: Swift.Int32)
+  public typealias RawValue = Swift.Int32
+}
+public struct GzipError : Swift.Error {
+  public enum Kind : Swift.Equatable {
+    case stream
+    case data
+    case memory
+    case buffer
+    case version
+    case unknown(code: Swift.Int)
+    public static func == (a: LeapCreatorSDK.GzipError.Kind, b: LeapCreatorSDK.GzipError.Kind) -> Swift.Bool
+  }
+  public let kind: LeapCreatorSDK.GzipError.Kind
+  public let message: Swift.String
+  public var localizedDescription: Swift.String {
+    get
+  }
+}
+extension Foundation.Data {
+  public var isGzipped: Swift.Bool {
+    get
+  }
+  public func gzipped(level: LeapCreatorSDK.CompressionLevel = .defaultCompression) throws -> Foundation.Data
+  public func gunzipped() throws -> Foundation.Data
+}
 public protocol SampleAppDelegate : AnyObject {
   func sendInfo(infoDict: Swift.Dictionary<Swift.String, Any>)
 }

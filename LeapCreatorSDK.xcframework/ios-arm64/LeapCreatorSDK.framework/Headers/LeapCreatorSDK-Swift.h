@@ -303,7 +303,6 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) LeapCreator 
 
 
 
-
 #endif
 #if defined(__cplusplus)
 #endif

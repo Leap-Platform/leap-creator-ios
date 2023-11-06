@@ -303,7 +303,6 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) LeapCreator 
 
 
 
-
 #endif
 #if defined(__cplusplus)
 #endif
@@ -607,7 +606,6 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) LeapCreator 
 - (void)start:(NSString * _Nonnull)apiKey;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
-
 
 
 

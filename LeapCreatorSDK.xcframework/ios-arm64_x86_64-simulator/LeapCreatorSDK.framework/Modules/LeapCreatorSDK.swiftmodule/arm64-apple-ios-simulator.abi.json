@@ -63,30 +63,6 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "LeapCreatorSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "LeapCreatorSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "WebKit",
-        "printedName": "WebKit",
-        "declKind": "Import",
-        "moduleName": "LeapCreatorSDK"
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -1876,30 +1852,6 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "LeapCreatorSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "LeapCreatorSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "WebKit",
-        "printedName": "WebKit",
-        "declKind": "Import",
-        "moduleName": "LeapCreatorSDK"
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -1939,30 +1891,6 @@
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "LeapCreatorSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "LeapCreatorSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "LeapCreatorSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "WebKit",
-        "printedName": "WebKit",
         "declKind": "Import",
         "moduleName": "LeapCreatorSDK"
       },
@@ -11569,6 +11497,272 @@
       "value": "\"log_types\""
     },
     {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 254,
+      "length": 94,
+      "value": "\"(function (webviewScale, totalScreenHeight, totalScreenWidth, topMargin=0, leftMargin=0) {\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 359,
+      "length": 54,
+      "value": "\"    var jinyFetchClientHierarchy = function(root){\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 424,
+      "length": 26,
+      "value": "\"        var node = {};\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 461,
+      "length": 33,
+      "value": "\"        if(root!==undefined){\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 505,
+      "length": 97,
+      "value": "\"            node.uuid = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(\/[xy]\/g, function(c) {\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 613,
+      "length": 50,
+      "value": "\"                var dt = new Date().getTime();\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 674,
+      "length": 59,
+      "value": "\"                var r = (dt + Math.random()*16)%16 | 0;\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 744,
+      "length": 43,
+      "value": "\"                dt = Math.floor(dt\/16);\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 798,
+      "length": 66,
+      "value": "\"                return (c=='x' ? r :(r&0x3|0x8)).toString(16);\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 875,
+      "length": 19,
+      "value": "\"            });\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 905,
+      "length": 54,
+      "value": "\"            node.tag = root.tagName.toLowerCase();\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 970,
+      "length": 62,
+      "value": "\"            var attributeNames = root.getAttributeNames();\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 1043,
+      "length": 59,
+      "value": "\"            for(var i=0; i<attributeNames.length; i++){\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 1113,
+      "length": 83,
+      "value": "\"                node[attributeNames[i]] = root.getAttribute(attributeNames[i]);\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 1207,
+      "length": 17,
+      "value": "\"            }\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 1235,
+      "length": 49,
+      "value": "\"            var viewportWidth = screen.width;\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 1295,
+      "length": 51,
+      "value": "\"            var viewportHeight = screen.height;\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 1357,
+      "length": 55,
+      "value": "\"            node.bounds = root.getClientRects()[0];\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 1423,
+      "length": 44,
+      "value": "\"            if(node.bounds!==undefined){\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 1478,
+      "length": 47,
+      "value": "\"               node.normalised_bounds = {};\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 1536,
+      "length": 126,
+      "value": "\"               node.normalised_bounds.top = (node.bounds.top*totalScreenHeight * webviewScale)\/viewportHeight + topMargin;\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 1673,
+      "length": 132,
+      "value": "\"               node.normalised_bounds.bottom = (node.bounds.bottom*totalScreenHeight * webviewScale)\/viewportHeight + topMargin;\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 1816,
+      "length": 127,
+      "value": "\"               node.normalised_bounds.left = (node.bounds.left*totalScreenWidth * webviewScale)\/viewportWidth + leftMargin;\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 1954,
+      "length": 129,
+      "value": "\"               node.normalised_bounds.right = (node.bounds.right*totalScreenWidth * webviewScale)\/viewportWidth + leftMargin;\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 2094,
+      "length": 17,
+      "value": "\"            }\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 2122,
+      "length": 48,
+      "value": "\"            node.innerText = root.innerText;\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 2181,
+      "length": 40,
+      "value": "\"            node.value = root.value;\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 2232,
+      "length": 35,
+      "value": "\"            node.children = [];\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 2278,
+      "length": 50,
+      "value": "\"            var childs = root.children.length;\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 2339,
+      "length": 54,
+      "value": "\"            for(var child=0;child<childs;child++){\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 2404,
+      "length": 86,
+      "value": "\"               node.children.push(jinyFetchClientHierarchy(root.children[child]));\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 2501,
+      "length": 17,
+      "value": "\"            }\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 2529,
+      "length": 13,
+      "value": "\"        }\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 2553,
+      "length": 23,
+      "value": "\"        return node\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 2587,
+      "length": 9,
+      "value": "\"    }\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 2607,
+      "length": 87,
+      "value": "\"    var layout = jinyFetchClientHierarchy(document.getElementsByTagName('html')[0])\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 2705,
+      "length": 37,
+      "value": "\"    return JSON.stringify(layout)\n\""
+    },
+    {
+      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Screen Capture\/LeapScreenHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 2753,
+      "length": 90,
+      "value": "\"}(${webviewScale},${totalScreenHeight},${totalScreenWidth},${topMargin},${leftMargin}));\""
+    },
+    {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Debugging\/UserData\/LeapUserDataViewModel.swift",
       "kind": "IntegerLiteral",
       "offset": 229,
@@ -13391,77 +13585,77 @@
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 5165,
+      "offset": 5357,
       "length": 25,
       "value": "\"yyyy-MM-dd HH:mm:ss.SSS\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 6524,
+      "offset": 6716,
       "length": 25,
       "value": "\"yyyy-MM-dd HH:mm:ss.SSS\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 7978,
+      "offset": 8170,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "IntegerLiteral",
-      "offset": 8070,
+      "offset": 8262,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 8352,
+      "offset": 8544,
       "length": 6,
       "value": "\"i386\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 8360,
+      "offset": 8552,
       "length": 8,
       "value": "\"x86_64\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 8370,
+      "offset": 8562,
       "length": 7,
       "value": "\"arm64\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 8402,
+      "offset": 8594,
       "length": 104,
       "value": "\"Simulator \""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 8465,
+      "offset": 8657,
       "length": 28,
       "value": "\"SIMULATOR_MODEL_IDENTIFIER\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 8498,
+      "offset": 8690,
       "length": 5,
       "value": "\"iOS\""
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Utils\/LeapUtils.swift",
       "kind": "StringLiteral",
-      "offset": 8505,
+      "offset": 8697,
       "length": 1,
       "value": "\"\""
     },
@@ -16392,293 +16586,6 @@
       "value": "\"LeapCreatorSDK.LeapScanViewController\""
     },
     {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 279,
-      "length": 94,
-      "value": "\"(function (webviewScale, totalScreenHeight, totalScreenWidth, topMargin=0, leftMargin=0) {\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 384,
-      "length": 54,
-      "value": "\"    var jinyFetchClientHierarchy = function(root){\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 449,
-      "length": 26,
-      "value": "\"        var node = {};\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 486,
-      "length": 33,
-      "value": "\"        if(root!==undefined){\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 530,
-      "length": 97,
-      "value": "\"            node.uuid = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(\/[xy]\/g, function(c) {\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 638,
-      "length": 50,
-      "value": "\"                var dt = new Date().getTime();\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 699,
-      "length": 59,
-      "value": "\"                var r = (dt + Math.random()*16)%16 | 0;\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 769,
-      "length": 43,
-      "value": "\"                dt = Math.floor(dt\/16);\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 823,
-      "length": 66,
-      "value": "\"                return (c=='x' ? r :(r&0x3|0x8)).toString(16);\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 900,
-      "length": 19,
-      "value": "\"            });\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 930,
-      "length": 54,
-      "value": "\"            node.tag = root.tagName.toLowerCase();\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 995,
-      "length": 62,
-      "value": "\"            var attributeNames = root.getAttributeNames();\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 1068,
-      "length": 59,
-      "value": "\"            for(var i=0; i<attributeNames.length; i++){\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 1138,
-      "length": 83,
-      "value": "\"                node[attributeNames[i]] = root.getAttribute(attributeNames[i]);\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 1232,
-      "length": 17,
-      "value": "\"            }\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 1260,
-      "length": 49,
-      "value": "\"            var viewportWidth = screen.width;\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 1320,
-      "length": 51,
-      "value": "\"            var viewportHeight = screen.height;\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 1382,
-      "length": 55,
-      "value": "\"            node.bounds = root.getClientRects()[0];\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 1448,
-      "length": 44,
-      "value": "\"            if(node.bounds!==undefined){\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 1503,
-      "length": 47,
-      "value": "\"               node.normalised_bounds = {};\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 1561,
-      "length": 126,
-      "value": "\"               node.normalised_bounds.top = (node.bounds.top*totalScreenHeight * webviewScale)\/viewportHeight + topMargin;\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 1698,
-      "length": 132,
-      "value": "\"               node.normalised_bounds.bottom = (node.bounds.bottom*totalScreenHeight * webviewScale)\/viewportHeight + topMargin;\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 1841,
-      "length": 127,
-      "value": "\"               node.normalised_bounds.left = (node.bounds.left*totalScreenWidth * webviewScale)\/viewportWidth + leftMargin;\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 1979,
-      "length": 129,
-      "value": "\"               node.normalised_bounds.right = (node.bounds.right*totalScreenWidth * webviewScale)\/viewportWidth + leftMargin;\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 2119,
-      "length": 17,
-      "value": "\"            }\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 2147,
-      "length": 48,
-      "value": "\"            node.innerText = root.innerText;\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 2206,
-      "length": 40,
-      "value": "\"            node.value = root.value;\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 2257,
-      "length": 35,
-      "value": "\"            node.children = [];\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 2303,
-      "length": 50,
-      "value": "\"            var childs = root.children.length;\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 2364,
-      "length": 54,
-      "value": "\"            for(var child=0;child<childs;child++){\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 2429,
-      "length": 86,
-      "value": "\"               node.children.push(jinyFetchClientHierarchy(root.children[child]));\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 2526,
-      "length": 17,
-      "value": "\"            }\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 2554,
-      "length": 13,
-      "value": "\"        }\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 2578,
-      "length": 23,
-      "value": "\"        return node\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 2612,
-      "length": 9,
-      "value": "\"    }\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 2632,
-      "length": 87,
-      "value": "\"    var layout = jinyFetchClientHierarchy(document.getElementsByTagName('html')[0])\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 2730,
-      "length": 37,
-      "value": "\"    return JSON.stringify(layout)\n\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "StringLiteral",
-      "offset": 2778,
-      "length": 90,
-      "value": "\"}(${webviewScale},${totalScreenHeight},${totalScreenWidth},${topMargin},${leftMargin}));\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "Dictionary",
-      "offset": 4039,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "Array",
-      "offset": 4139,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
-      "kind": "Array",
-      "offset": 4176,
-      "length": 2,
-      "value": "[]"
-    },
-    {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Debugging\/LeapCreatorTableViewCells\/LeapUserPropertiesTableViewCell.swift",
       "kind": "StringLiteral",
       "offset": 305,
@@ -16789,69 +16696,6 @@
       "offset": 557,
       "length": 13,
       "value": "\"LeapCreatorSDK.LeapDraggable\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapUnfilteredViewProps.swift",
-      "kind": "Array",
-      "offset": 294,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapUnfilteredViewProps.swift",
-      "kind": "Array",
-      "offset": 1146,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapUnfilteredViewProps.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1209,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapUnfilteredViewProps.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1245,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapUnfilteredViewProps.swift",
-      "kind": "StringLiteral",
-      "offset": 1564,
-      "length": 7,
-      "value": "\"class\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapUnfilteredViewProps.swift",
-      "kind": "StringLiteral",
-      "offset": 2236,
-      "length": 3,
-      "value": "\"z\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapUnfilteredViewProps.swift",
-      "kind": "StringLiteral",
-      "offset": 1564,
-      "length": 7,
-      "value": "\"class\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapUnfilteredViewProps.swift",
-      "kind": "StringLiteral",
-      "offset": 2236,
-      "length": 3,
-      "value": "\"z\""
-    },
-    {
-      "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCore\/Models\/LeapUnfilteredViewProps.swift",
-      "kind": "FloatLiteral",
-      "offset": 2422,
-      "length": 3,
-      "value": "0.0"
     },
     {
       "filePath": "\/Users\/aravindgs\/workspace\/ios-source\/LeapCreator\/Creator Views\/LeapCreatorNotificationView.swift",

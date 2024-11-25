@@ -1038,6 +1038,16 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LeapCreatorSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -9916,6 +9926,174 @@
       "offset": 3962,
       "length": 2,
       "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDeveloperConsoleViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 397,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDeveloperConsoleViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 532,
+      "length": 13,
+      "value": "\"Diagnostics\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDeveloperConsoleViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 585,
+      "length": 4,
+      "value": "0.81"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDeveloperConsoleViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 598,
+      "length": 3,
+      "value": "0.8"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDeveloperConsoleViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 609,
+      "length": 4,
+      "value": "0.88"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDeveloperConsoleViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 622,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDeveloperConsoleViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 659,
+      "length": 12,
+      "value": "\"SF Compact\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDeveloperConsoleViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 679,
+      "length": 4,
+      "value": "18.0"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDeveloperConsoleViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 715,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDeveloperConsoleViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 775,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDeveloperConsoleViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 848,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDeveloperConsoleViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 862,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDeveloperConsoleViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 935,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDeveloperConsoleViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 949,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDeveloperConsoleViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 1146,
+      "length": 17,
+      "value": "\"wfx-diagnostics\""
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDeveloperConsoleViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 1264,
+      "length": 4,
+      "value": "0.04"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDeveloperConsoleViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 1277,
+      "length": 4,
+      "value": "0.46"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDeveloperConsoleViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 1289,
+      "length": 4,
+      "value": "0.84"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDeveloperConsoleViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1302,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDeveloperConsoleViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 1355,
+      "length": 4,
+      "value": "0.42"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDeveloperConsoleViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 1368,
+      "length": 4,
+      "value": "0.41"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDeveloperConsoleViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 1380,
+      "length": 4,
+      "value": "0.48"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDeveloperConsoleViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1393,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDeveloperConsoleViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1570,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingSegmentedControl.swift",

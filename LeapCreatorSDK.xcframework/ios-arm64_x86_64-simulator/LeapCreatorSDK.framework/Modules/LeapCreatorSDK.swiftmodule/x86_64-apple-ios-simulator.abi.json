@@ -12820,155 +12820,169 @@
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingToolsViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 7104,
+      "length": 3,
+      "value": "5.0"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingToolsViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 7194,
+      "length": 3,
+      "value": "5.0"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingToolsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7214,
+      "offset": 7267,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingToolsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7250,
+      "offset": 7301,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingToolsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7330,
+      "offset": 7381,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingToolsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7357,
+      "offset": 7408,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingToolsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7431,
+      "offset": 7481,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingToolsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7474,
+      "offset": 7524,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingToolsViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7652,
+      "offset": 7702,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingToolsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8046,
+      "offset": 8096,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingToolsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8238,
+      "offset": 8288,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingToolsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8452,
+      "offset": 8502,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingToolsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8543,
+      "offset": 8593,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingToolsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8548,
+      "offset": 8598,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingToolsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9194,
+      "offset": 9244,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingToolsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9660,
+      "offset": 9710,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingToolsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9726,
+      "offset": 9776,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingToolsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9808,
+      "offset": 9858,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingToolsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10226,
+      "offset": 10276,
       "length": 2,
       "value": "56"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingToolsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10366,
+      "offset": 10416,
       "length": 2,
       "value": "56"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingToolsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11030,
+      "offset": 11080,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingToolsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11148,
+      "offset": 11198,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingToolsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11429,
+      "offset": 11479,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Debugging\/LeapDebuggingToolsViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11569,
+      "offset": 11619,
       "length": 2,
       "value": "60"
     },
@@ -17028,14 +17042,14 @@
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
       "kind": "Dictionary",
-      "offset": 4039,
+      "offset": 4166,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Models\/LeapHierarchyObject.swift",
       "kind": "Array",
-      "offset": 4139,
+      "offset": 4266,
       "length": 2,
       "value": "[]"
     },
@@ -17168,91 +17182,91 @@
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Models\/LeapUnfilteredViewProps.swift",
       "kind": "Dictionary",
-      "offset": 379,
+      "offset": 387,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Models\/LeapUnfilteredViewProps.swift",
       "kind": "BooleanLiteral",
-      "offset": 426,
+      "offset": 434,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Models\/LeapUnfilteredViewProps.swift",
       "kind": "Array",
-      "offset": 1434,
+      "offset": 1442,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Models\/LeapUnfilteredViewProps.swift",
       "kind": "BooleanLiteral",
-      "offset": 1497,
+      "offset": 1505,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Models\/LeapUnfilteredViewProps.swift",
       "kind": "BooleanLiteral",
-      "offset": 1533,
+      "offset": 1541,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Models\/LeapUnfilteredViewProps.swift",
       "kind": "StringLiteral",
-      "offset": 1857,
+      "offset": 1865,
       "length": 7,
       "value": "\"class\""
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Models\/LeapUnfilteredViewProps.swift",
       "kind": "StringLiteral",
-      "offset": 2657,
+      "offset": 2665,
       "length": 3,
       "value": "\"z\""
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Models\/LeapUnfilteredViewProps.swift",
       "kind": "StringLiteral",
-      "offset": 1857,
+      "offset": 1865,
       "length": 7,
       "value": "\"class\""
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Models\/LeapUnfilteredViewProps.swift",
       "kind": "StringLiteral",
-      "offset": 2657,
+      "offset": 2665,
       "length": 3,
       "value": "\"z\""
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Models\/LeapUnfilteredViewProps.swift",
       "kind": "FloatLiteral",
-      "offset": 2864,
+      "offset": 2872,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Models\/LeapUnfilteredViewProps.swift",
       "kind": "BooleanLiteral",
-      "offset": 2892,
+      "offset": 2900,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Models\/LeapUnfilteredViewProps.swift",
       "kind": "StringLiteral",
-      "offset": 9470,
+      "offset": 9508,
       "length": 30,
       "value": "\"LeapCreatorSDK.LeapUnfilteredFlutterViewProps\""
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCore\/Models\/LeapUnfilteredViewProps.swift",
       "kind": "StringLiteral",
-      "offset": 17725,
+      "offset": 17763,
       "length": 21,
       "value": "\"LeapCreatorSDK.LeapFlutterViewBounds\""
     },

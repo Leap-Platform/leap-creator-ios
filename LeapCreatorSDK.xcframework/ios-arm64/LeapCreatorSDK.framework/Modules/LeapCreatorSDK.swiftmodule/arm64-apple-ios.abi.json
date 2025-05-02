@@ -14088,56 +14088,56 @@
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Models\/LeapViewProps.swift",
       "kind": "Array",
-      "offset": 2001,
+      "offset": 2659,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Models\/LeapViewProps.swift",
       "kind": "BooleanLiteral",
-      "offset": 2064,
+      "offset": 2722,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Models\/LeapViewProps.swift",
       "kind": "BooleanLiteral",
-      "offset": 2100,
+      "offset": 2758,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Models\/LeapViewProps.swift",
       "kind": "StringLiteral",
-      "offset": 2307,
+      "offset": 2965,
       "length": 7,
       "value": "\"class\""
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Models\/LeapViewProps.swift",
       "kind": "StringLiteral",
-      "offset": 2979,
+      "offset": 3637,
       "length": 3,
       "value": "\"z\""
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Models\/LeapViewProps.swift",
       "kind": "StringLiteral",
-      "offset": 2307,
+      "offset": 2965,
       "length": 7,
       "value": "\"class\""
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Models\/LeapViewProps.swift",
       "kind": "StringLiteral",
-      "offset": 2979,
+      "offset": 3637,
       "length": 3,
       "value": "\"z\""
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Models\/LeapViewProps.swift",
       "kind": "FloatLiteral",
-      "offset": 3039,
+      "offset": 3697,
       "length": 3,
       "value": "0.0"
     },

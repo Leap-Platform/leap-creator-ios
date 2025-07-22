@@ -326,6 +326,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) LeapCreator 
 
 
 
+
 @class NSEntityDescription;
 @class NSManagedObjectContext;
 
@@ -705,6 +706,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) LeapCreator 
 - (void)start:(NSString * _Nonnull)apiKey;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
+
 
 
 

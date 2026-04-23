@@ -324,6 +324,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) LeapCreator 
 
 
 
+
 #endif
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop
@@ -644,6 +645,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) LeapCreator 
 - (void)start:(NSString * _Nonnull)apiKey;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
+
 
 
 

@@ -11476,9 +11476,16 @@
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1663,
+      "offset": 1659,
       "length": 1,
       "value": "3"
+    },
+    {
+      "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Creator Icon\/LeapCreatorIconView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1871,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/jenkins\/workspace\/mobile\/iOS\/native-sdk-release\/ios-source\/LeapCreator\/Screen Capture\/LeapCreatorInfoView.swift",

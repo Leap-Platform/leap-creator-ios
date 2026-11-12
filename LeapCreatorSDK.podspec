@@ -1,16 +1,16 @@
 Pod::Spec.new do |s|
     s.name         = "LeapCreatorSDK"
-    s.version      = "2.2.11"
+    s.version      = "2.3.0"
     s.summary      = "Product engagement made easy"
-    s.description  = <<-DESC 
+    s.description  = <<-DESC
     Product engagement made easy. Onboard, nudge, & delight your mobile users
                      DESC
     s.homepage     = "https://whatfix.com/products/mobile/"
-    s.platform	   = :ios, "10.0"
+    s.platform     = :ios, "10.0"
     s.swift_versions = ['5.0']
-    s.license      = { :type => "BSD",:file=>"LICENSE.md"}
+    s.license      = { :type => "Commercial", :file => "LICENSE.md" }
     s.author       = { "Aravind G S" => "aravind.gs@whatfix.com" }
-    s.source       = { :git => "https://github.com/Leap-Platform/leap-creator-ios.git", :tag => s.version.to_s }
+    s.source       = { :http => "https://github.com/Leap-Platform/leap-creator-ios/releases/download/2.3.0/LeapCreatorSDK.xcframework.zip", :sha256 => "e9c2c63cd07b088b880eaa3208dee99376ccd2df88d7726bff1ec4a559ab3c29" }
     s.vendored_frameworks = "LeapCreatorSDK.xcframework"
     s.frameworks   = 'UIKit', 'Webkit'
   end
